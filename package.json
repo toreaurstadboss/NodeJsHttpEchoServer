@@ -1,0 +1,19 @@
+{
+  "name": "echoserver",
+  "version": "1.0.0",
+  "description": "A simple echo server support HTTP for Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echoserver",
+    "nodejs"
+  ],
+  "author": "Tore Aurstad",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
+}
